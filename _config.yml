@@ -73,7 +73,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: archive
     values:
       layout: archive
       author_profile: true

@@ -1,9 +1,13 @@
 main:
   - title: "Experience"
     url: /experience/
+  - title: "Research"
+    url: /research/  
   - title: "Projects"
     url: /projects/
-  - title: "Research"
-    url: /research/
+  - title: "Apps"
+    url: /Apps/  
   - title: "Skills"
     url: /skills/
+  - title: "Hobbies"
+    url: /hobbies/

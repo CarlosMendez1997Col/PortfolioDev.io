@@ -1,8 +1,12 @@
 ---
-title: Research: Modelagem e prognóstico hidrológico de fenômenos hidrometeorológicos na bacia hidrográfica do rio Paranapanema, Brasil
+title: "Research: Modelagem e prognóstico hidrológico de fenômenos hidrometeorológicos na bacia hidrográfica do rio Paranapanema, Brasil"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
-  - Research
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 This post has been updated and should show a modified date if used in a layout.

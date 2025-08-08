@@ -97,14 +97,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-  whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
+  
 category_archive:
   type: liquid
   path: /categories/

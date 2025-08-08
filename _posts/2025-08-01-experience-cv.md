@@ -1,6 +1,6 @@
 ---
 title: "Experience: Curriculum Vitae"
-experience:
+categories:
   - Curriculum
 tags:
   - CV

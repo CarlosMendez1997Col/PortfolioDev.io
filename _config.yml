@@ -6,39 +6,6 @@ github_username: CarlosMendez1997Col
 minimal_mistakes_skin: neon
 search: true
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 20 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
 author:
   name   : "Carlos Mendez"
   avatar : "assets/images/profile-modified.png"
@@ -69,6 +36,89 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+include:
+  - _pages
+  - .htaccess
+
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 20 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+  whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 defaults:
   # _posts
   - scope:
@@ -81,28 +131,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
 
-algolia:
-  # Exclude more files from indexing
-  files_to_exclude:
-    - index.html
-    - index.md
-    - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
-    - subdirectory/*.html
+
   

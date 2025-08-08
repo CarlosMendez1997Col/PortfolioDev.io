@@ -1,10 +1,10 @@
 ---
 title: "Experience: Curriculum Vitae"
 experience:
-  - Curriculum Vitae
+  - Curriculum
 tags:
-  - Post Formats
-  - notice
+  - CV
+  - Cv2025
 ---
 
 # IGT Solutions 

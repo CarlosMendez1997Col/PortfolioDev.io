@@ -1,7 +1,7 @@
 ---
 title: "Experience: Curriculum Vitae"
-categories:
-  - Blog
+experience:
+  - Curriculum Vitae
 tags:
   - Post Formats
   - notice

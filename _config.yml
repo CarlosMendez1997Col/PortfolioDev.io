@@ -73,9 +73,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: archive
+      type: pages
     values:
-      layout: archive
+      layout: single
       author_profile: true
       read_time: true
       comments: true

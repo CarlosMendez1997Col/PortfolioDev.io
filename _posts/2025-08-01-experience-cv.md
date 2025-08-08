@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Experience: Curriculum Vitae"
 categories:
   - Blog
 tags:
@@ -17,4 +17,72 @@ tags:
 * Analyze databases and Big Data to extract information and drive decision making.
 * Collaborating with finance and operations teams, to integrate data results into business strategies.
 
+# Centro de Estudos Ambientais (CEA)
+### Researcher in Geosciences 
+#### January 2024 – December 2024 
+##### Sao Paulo, Brazil 
+###### Main Functions
+ 
+* Support to CEA in the implementation of Geographic Information Systems (GIS) using ArcGIS and its derivatives (ArcGIS Pro,
+ArcGIS Online and ArcGIS Web Apps).
+* Development of programming codes in JavaScript and Google Earth Engine related to surface and groundwater
+monitoring, water balance, and hydrometeorological phenomena.
+* Prediction of possible scenarios of water shortage and water shortage using Autoregressive Neural Networks (NNAR) in
+Rstudio.
+* Participation and follow-up in the Monitoring Rooms of the Paranapanema River Water System (CBH Paranapanema).
+* Technical visits to cartography, climatology, and hydrology laboratories.
+* Support in the preparation, writing, and publication of academic articles in international journals related to water and
+natural resources.
 
+# Laboratory of Water Resources and Environmental Isotopes (LARHIA)
+### Researcher in Geosciences
+#### November 2022 – November 2023
+##### Sao Paulo, Brazil
+###### Main funcionts: 
+
+* Acquisition of satellite images with hydrological variables from GPM and FLDAS geospatial systems.
+* Creation and management of geodatabases and mosaic datasets of meteorological data (precipitation, temperature, and
+potential evapotranspiration).
+* Development of scripts in ArcGIS API for Python for the geoprocessing of satellite images and mosaic datasets.
+* Spatial and temporal analysis between 2001 and 2023 of precipitation and ETP in ArcGIS Pro using geostatistical
+interpolation techniques (IDW and Kriging).
+* Modeling, training and simulations of water availability in dams and reservoirs in ArcGIS API for Python using Artificial
+intelligence algorithms: LSTM and ResCNN networks.
+* Publication on GitHub of the scripts and data used in the research projects ascribed to the LARHIA group.
+* Elaboration of basic and thematic cartography using ArcGIS Online.
+* Preparation of reports and technical presentations for the LARHIA academic events.
+* Technical visits to water bodies (rivers, dams, lakes, etc.) installed in the Paranapanema River Basin (PRB).
+
+# Geoscience and Remote Sensing Society (GRSS)
+### Researcher in Geosciences, Chapter Colombia UDFJC 
+#### October 2021 – October 2022
+##### Bogota, Colombia
+###### Main funcionts: 
+  
+* Morphometric characterization of hydrographic basins using geospatial and remote sensing data.
+* Analysis of bioclimatic projections using the ArcGIS Maps SDK for JavaScript.
+* Accompaniment and support to GRSS group activities (meetings, technical visits, and reports).
+* Development of basic and advanced thematic cartography in QGIS and ArcGIS Pro.
+
+# Gestion Predial de Colombia (PREDCOL SAS)
+### GIS Assistant
+#### August 2021 – January 2022
+##### Bogota, Colombia
+###### Main funcionts: 
+
+* Processing and analysis of drone images in Agisoft Metashape.
+* Creation of orthomosaics and orthoimages of drones.
+* Generation of cartographic products such as Maps and Digital Elevation Models (DEM).
+* Elaboration and delivery of technical reports PREDCOL group.
+
+# Laboratory of Astronomy and Geospatial Information Technologies (LatitUD)
+### Research mentor
+#### June 2020 – July 2021
+##### Bogota, Colombia
+###### Main funcionts: 
+
+* Analysis of vegetation and land use using satellite images and NVDI, MNDWI and AWEI index.
+* Calculation of the Standardized Precipitation Index (SPI), Palmer Drought Severity Index (PDSI) in C++ and R.
+* Evaluation of the threat, vulnerability and risk due to drought using hydrometeorological indices (SPI and PDSI).
+* Presentation and defense of the degree project in Cadastral Engineering and Geodesy “Methodology of evaluation and
+forecast of the drought phenomenon in the Municipality of Motavita, Department of Boyaca”.

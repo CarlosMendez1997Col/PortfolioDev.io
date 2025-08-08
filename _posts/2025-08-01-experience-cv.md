@@ -19,3 +19,7 @@ tags:
 * Analyze databases and Big Data to extract information and drive decision making.
 * Collaborating with finance and operations teams, to integrate data results into business strategies.
 {% endcapture %}
+
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>

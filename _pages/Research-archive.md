@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
-permalink: /researc/
+permalink: /research/
 layout: posts
 author_profile: true
 ---

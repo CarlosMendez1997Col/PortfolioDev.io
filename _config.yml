@@ -11,9 +11,9 @@ author:
   avatar : "assets/images/profile-modified.png"
   bio    : "Cadastral and Geodesic Engineer, MSc in Geosciences and Environment"
   links:
-    - label: "E-mail"
-      icon: "fa-solid fa-envelope"
-      url: "carlos.mendez@unesp.br"
+    - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Carlos-Mendez-Vallejo"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/carlos-andres-mendez-vallejo-oficialpage/"
@@ -26,15 +26,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Carlos-Mendez-Vallejo"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/carlos-andres-mendez-vallejo-oficialpage/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/CarlosMendez1997Col"
+    - label: "Youtube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@AndresMendez-ej3vv"
 
 include:
   - _pages
@@ -116,7 +119,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: foo
     values:
       layout: single
       author_profile: true

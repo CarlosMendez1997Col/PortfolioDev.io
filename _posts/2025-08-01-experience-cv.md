@@ -3,8 +3,7 @@ title: "Experience: Curriculum Vitae"
 categories:
   - Curriculum
 tags:
-  - CV
-  - Cv2025
+  - Curriculum2025
 ---
 
 # IGT Solutions 

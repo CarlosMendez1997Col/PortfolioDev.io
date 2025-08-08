@@ -41,44 +41,34 @@ footer:
 
 include:
   - _pages
-  - .htaccess
-
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
-
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-pagination:
-  # Set enabled to true to use paginate v2
-  # enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
+#pagination:
+# Set enabled to true to use paginate v2
+# enabled: true
+#  debug: false
+#  collection: 'posts'
+#  per_page: 10
+#  permalink: '/page/:num/'
+#  title: ':title - page :num'
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
+#  category: 'posts'
+#  tag: ''
+#  locale: ''
+#  trail:
+# before: 2
+# after: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -108,18 +98,11 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
 defaults:
   # _posts
   - scope:
       path: ""
-      type: foo
+      type: posts
     values:
       layout: single
       author_profile: true

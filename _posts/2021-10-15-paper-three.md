@@ -7,7 +7,7 @@ last_modified_at: 2021-10-01T18:20:02-05:00
 Metodología de evaluación y pronóstico del fenómeno de sequía en el Municipio de Motavita, Departamento de Boyacá
 {: style="text-align: justify;"}
 
-Resumen
+Resumen:
 
 Uno de los fenómenos naturales que tiene mayor capacidad de generar impactos tanto socioeconómicos, ambientales y de salud pública es el fenómeno de sequía. Por lo cual, se han creado organizaciones con el fin de mitigar y reducir estos impactos como lo es la (UNISDR), la (OMM) y el (IPCC). Creando así diversos índices o indicadores de sequía que sirven como mecanismos de vigilancia, control, manejo y reducción de un fenómeno de sequía en un espacio-tiempo.
 

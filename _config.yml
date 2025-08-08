@@ -1,7 +1,6 @@
 title: Professional Portfolio 
 email: carlos.mendez@unesp.br
 description: Geosciences| Hydro energy | Hidrometeorology | Agrometeorology | Geotechnologies - GIS | GeoAI-ML-DL
-twitter_username: username
 github_username: CarlosMendez1997Col
 minimal_mistakes_skin: neon
 search: true
@@ -110,7 +109,13 @@ defaults:
       comments: true
       share: true
       related: true
-
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 
   

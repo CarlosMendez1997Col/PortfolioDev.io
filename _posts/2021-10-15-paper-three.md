@@ -18,7 +18,7 @@ En Colombia, de acuerdo al régimen unimodal de precipitación característico e
 {: style="text-align: justify;"}
 
 
-[Link]: [https://hdl.handle.net/11449/257904](https://repository.udistrital.edu.co/items/de3ecda1-01ec-4203-a938-1969240f6d24)
+[Link](https://repository.udistrital.edu.co/items/de3ecda1-01ec-4203-a938-1969240f6d24)
 
 
 <table>

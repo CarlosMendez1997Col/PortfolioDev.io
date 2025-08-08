@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Carlos Mendez"
   avatar : "assets/images/profile-modified.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Cadastral and Geodesic Engineer, MSc in Geosciences and Environment"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

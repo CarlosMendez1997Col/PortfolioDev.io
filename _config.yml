@@ -19,7 +19,7 @@ description: Geosciences| Hydro energy | Hidrometeorology | Agrometeorology | Ge
 twitter_username: username
 github_username: CarlosMendez1997Col
 minimal_mistakes_skin: neon
-search: true
+search: false
 
 # Build settings
 markdown: kramdown

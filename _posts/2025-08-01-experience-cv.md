@@ -1,10 +1,10 @@
 ---
-title: "Experience: Curriculum Vitae"
+title: "Post: Notice"
 categories:
-  - Experience
+  - Blog
 tags:
-  - Cv
-  - 2025
+  - Post Formats
+  - notice
 ---
 
 # IGT Solutions 
@@ -20,6 +20,4 @@ tags:
 * Collaborating with finance and operations teams, to integrate data results into business strategies.
 {% endcapture %}
 
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
+

@@ -27,8 +27,10 @@ https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-
 ```
 
 GitHub CLI
-```CSS
+```html
+<script>
 gh repo clone CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript
+<script>
 ```
 
 ## Description

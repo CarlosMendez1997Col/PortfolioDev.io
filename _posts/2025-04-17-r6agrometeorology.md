@@ -1,6 +1,8 @@
 ---
 title: "Monitoring Agrometeorological Resources"
-excerpt_separator: "<!--more-->"
+header:
+  teaser: /assets/images/OfficialLandscape.png
+  og_image: /assets/images/OfficialLandscape.png
 categories:
   - Agrometeorology
 tags:

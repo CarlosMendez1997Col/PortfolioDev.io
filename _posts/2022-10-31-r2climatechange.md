@@ -118,7 +118,7 @@ Version `1.0`
 
 ```HTML
 <script>
-https://github.com/CarlosMendez1997Col/Evaluate-hydrological-and-meteorological-droughts-using-C-and-R/commits/Version1.0
+https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript/releases
 <script>
 ```
 

@@ -66,6 +66,7 @@ https://github.com/CarlosMendez1997Col/Monitoring-Agrometeorological-Resources/t
 Version `1.0`
 
 ```JavaScript
+<script>
 https://github.com/CarlosMendez1997Col/Monitoring-Agrometeorological-Resources/releases
 <script>
 ```
@@ -73,6 +74,7 @@ https://github.com/CarlosMendez1997Col/Monitoring-Agrometeorological-Resources/r
 ## External packages and repositories of GEE
 
 ```JavaScript
+<script>
 require("users/aazuspan/snazzy:styles");
 require('users/gena/packages:style');
 require('users/gena/packages:text');
@@ -83,6 +85,7 @@ require('users/gena/packages:utils');
 ## External Basemaps
 
 ```JavaScript
+<script>
 var MultiBrand = "https://snazzymaps.com/style/20053/multi-brand-network"
 var MidNight = "https://snazzymaps.com/style/2/midnight-commander"
 var GeoMap = "https://snazzymaps.com/style/48477/geomap"
@@ -91,18 +94,22 @@ var AccessCall = "https://snazzymaps.com/style/10448/accesscall"
 var MutedBlue = "https://snazzymaps.com/style/83/muted-blue"
 var Outrun = "https://snazzymaps.com/style/122898/outrun"
 var Cobalt = "https://snazzymaps.com/style/30/cobalt"
+<script>
 ```
 
 ## External Images and ImageCollections
 
 ```JavaScript
+<script>
 ee.ImageCollection("users/gena/global-hand/hand-100")
 ee.Image("JAXA/ALOS/AW3D30/V2_2")
+<script>
 ```
 
 ## Main ImageCollections and Datasets
 
 ```JavaScript
+<script>
 ee.FeatureCollection('FAO/GAUL_SIMPLIFIED_500m/2015/level1');
 
 // A1.Precipitation and Rainfall
@@ -141,6 +148,7 @@ ee.ImageCollection('ECMWF/ERA5_LAND/DAILY_AGGR').select(['volumetric_soil_water_
 ee.ImageCollection('ECMWF/ERA5_LAND/DAILY_AGGR').select(['volumetric_soil_water_layer_4'])
 
 // K11. Agrometeorological Index (In construction)
+<script>
 ```
 
 

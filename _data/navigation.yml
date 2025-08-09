@@ -5,9 +5,11 @@ main:
     url: /development/  
   - title: "Projects"
     url: /projects/
-  - title: "Apps"
-    url: /Apps/  
   - title: "Skills"
     url: /skills/
+  - title: "Apps"
+    url: /apps/  
+  - title: "Maps"
+    url: /maps/    
   - title: "Hobbies"
     url: /hobbies/

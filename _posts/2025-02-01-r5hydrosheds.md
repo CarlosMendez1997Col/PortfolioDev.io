@@ -11,7 +11,7 @@ tags:
   - Google Earth Engine
 ---
 
-# Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroRIVERS, HydroLAKES, GLWD, HydroWASTE, GloRiC, LakeTEMP in Google Earth Engine (GEE)
+# Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroRIVERS, HydroLAKES, GLWD, HydroWASTE, GloRiC and LakeTEMP
 
 ## Use and install this repository
 

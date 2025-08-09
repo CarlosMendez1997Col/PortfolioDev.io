@@ -1,5 +1,8 @@
 ---
 title: "Research: Academic Publication"
+header:
+  teaser: /assets/images/OfficialLandscape.png
+  og_image: /assets/images/OfficialLandscape.png
 last_modified_at: 2021-10-01T18:20:02-05:00
 ---
 <span style="font-size: 16px;">

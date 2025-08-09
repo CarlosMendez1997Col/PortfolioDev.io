@@ -20,8 +20,10 @@ tags:
 ## Use and install this repository
 
 HTTPS
-```CSS
+```html
+<script>
 https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript.git
+<script>
 ```
 
 GitHub CLI
@@ -36,20 +38,28 @@ Repository builded in `Arcgis for Python` and `ArcGIS Maps SDK for JavaScript`.
 Each chapter is described below:
 
 1. The first chapter, geoprocessing `NetCDF` files and convert them to `CRF` (Cloud Raster Format).
-```HTML
+```html
+<script>
 https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript/tree/main/1.%20Geoprocessing%20NetCDF%20data
+<script>
 ``` 
 2. The second chapter, analyze trends/patterns and calculate `Multidimensional Anomaly`, `Trend Raster` and `Predict Using Trend Raster`.
-```HTML
+```html
+<script>
 https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript/tree/main/2.%20Analysis%20of%20trends%20and%20patterns%20using%20multidimensional%20data
+<script>
 ```
 3. The third chapter, shows some animations and timelines of `19 Bioclimate Projections of WorldClim` using `ArcGIS Maps SDK for JavaScript`. 
-```HTML
+```html
+<script>
 https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript/tree/main/3.%20Animations%20and%20timeline%20of%20climate%20projections
+<script>
 ```
 4. The fourth chapter, share the links of original NetCDF files.
-```HTML
+```html
+<script>
 https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-Python-and-ArcGIS-Maps-SDK-for-JavaScript/tree/main/4.%20Data%20and%20files
+<script>
 ```
 
 ## Prerequisites and libraries
@@ -57,6 +67,7 @@ https://github.com/CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-
 ### ArcGIS API for Python
 
 ```python
+<script>
 import arcpy
 import datetime as dt
 import os
@@ -72,7 +83,7 @@ from arcgis.gis import GIS
 from arcgis.raster import *
 from arcgis.raster.functions import *
 from arcgis.raster.analytics import *
-
+<script>
 ```
 ### ArcGIS Maps SDK for JavaScript
 
@@ -104,7 +115,9 @@ from arcgis.raster.analytics import *
 Version `1.0`
 
 ```HTML
+<script>
 https://github.com/CarlosMendez1997Col/Evaluate-hydrological-and-meteorological-droughts-using-C-and-R/commits/Version1.0
+<script>
 ```
 
 ## Data acquisition and download

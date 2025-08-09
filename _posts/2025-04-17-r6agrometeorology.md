@@ -65,7 +65,7 @@ https://github.com/CarlosMendez1997Col/Monitoring-Agrometeorological-Resources/t
 
 Version `1.0`
 
-```JavaScript
+```html
 <script>
 https://github.com/CarlosMendez1997Col/Monitoring-Agrometeorological-Resources/releases
 <script>
@@ -73,7 +73,7 @@ https://github.com/CarlosMendez1997Col/Monitoring-Agrometeorological-Resources/r
   
 ## External packages and repositories of GEE
 
-```JavaScript
+```html
 <script>
 require("users/aazuspan/snazzy:styles");
 require('users/gena/packages:style');
@@ -84,7 +84,7 @@ require('users/gena/packages:utils');
 
 ## External Basemaps
 
-```JavaScript
+```html
 <script>
 var MultiBrand = "https://snazzymaps.com/style/20053/multi-brand-network"
 var MidNight = "https://snazzymaps.com/style/2/midnight-commander"
@@ -99,7 +99,7 @@ var Cobalt = "https://snazzymaps.com/style/30/cobalt"
 
 ## External Images and ImageCollections
 
-```JavaScript
+```html
 <script>
 ee.ImageCollection("users/gena/global-hand/hand-100")
 ee.Image("JAXA/ALOS/AW3D30/V2_2")
@@ -108,7 +108,7 @@ ee.Image("JAXA/ALOS/AW3D30/V2_2")
 
 ## Main ImageCollections and Datasets
 
-```JavaScript
+```html
 <script>
 ee.FeatureCollection('FAO/GAUL_SIMPLIFIED_500m/2015/level1');
 

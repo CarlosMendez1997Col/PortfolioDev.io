@@ -83,7 +83,7 @@ https://github.com/CarlosMendez1997Col/Monitoring-water-resources-using-Google-E
   
 ## Image collections and datasets
 
-### 01.Introduction
+### 01.NVDI, MNDWI and AWEI index
 ```Javascript
 <script>
 ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")

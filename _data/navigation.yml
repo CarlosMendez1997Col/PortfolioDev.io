@@ -1,8 +1,8 @@
 main:
   - title: "Experience"
     url: /experience/
-  - title: "Research"
-    url: /research/  
+  - title: "Development"
+    url: /devandresearch/  
   - title: "Projects"
     url: /projects/
   - title: "Apps"

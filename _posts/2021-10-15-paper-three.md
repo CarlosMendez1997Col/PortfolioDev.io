@@ -1,6 +1,7 @@
 ---
 title: "Research: Academic Publication"
 header:
+  image: /assets/images/OfficialLandscape.png
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 last_modified_at: 2021-10-01T18:20:02-05:00

@@ -85,42 +85,30 @@ https://github.com/CarlosMendez1997Col/Monitoring-water-resources-using-Google-E
 
 ### 01.NVDI, MNDWI and AWEI index
 ```Javascript
-<script>
 ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")
-<script>
 ```
 ### 02.Surface Water
 ```Javascript
-<script>
 ee.ImageCollection("JRC/GSW1_4/YearlyHistory")
-<script>
 ```
 ### 03.Precipitation and rainfall
 ```Javascript
-<script>
 ee.ImageCollection('UCSB-CHG/CHIRPS/PENTAD')
 ee.ImageCollection('UCSB-CHG/CHIRPS/DAILY')
-<script>
 ```
 ### 04.Hidrology
 ```Javascript
-<script>
 ee.ImageCollection('JRC/GSW1_3/YearlyHistory')
-<script>
 ```
 ### 05.Water balance and drought
 ```Javascript
-<script>
 ee.ImageCollection('MODIS/006/MOD16A2')
 ee.ImageCollection('UCSB-CHG/CHIRPS/PENTAD')
-<script>
 ```
 ### 06.Groundwater
 ```Javascript
-<script>
 ee.ImageCollection("NASA/GLDAS/V022/CLSM/G025/DA1D")
 ee.ImageCollection('NASA/GRACE/MASS_GRIDS/MASCON_CRI')
-<script>
 ```
 
 ## Credits and repository of data

@@ -1,6 +1,7 @@
 ---
 title: "Dev: Evaluation of Climate and Bioclimate Projections"
 header:
+  image: /assets/images/OfficialLandscape.png
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 categories:

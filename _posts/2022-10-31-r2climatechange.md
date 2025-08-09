@@ -7,6 +7,7 @@ tags:
   - ArcGIS API for Python
   - Python
   - HTML
+  - ArcGIS Pro
   - ArcGIS Maps SDK for JavaScript
 ---
 

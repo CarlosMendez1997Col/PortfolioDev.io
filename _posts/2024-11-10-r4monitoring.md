@@ -1,6 +1,7 @@
 ---
 title: "Dev: Monitoring water resources using remote sensing"
 header:
+  image: /assets/images/OfficialLandscape.png
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 categories:

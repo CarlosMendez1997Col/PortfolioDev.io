@@ -48,14 +48,14 @@ https://github.com/CarlosMendez1997Col/Model-and-forecasts-hydrological-and-ener
 https://github.com/CarlosMendez1997Col/Model-and-forecasts-hydrological-and-energetic-resources-using-ArcGIS-API-for-Python-and-R/tree/main/2.%20Forecasting%20LSTM%20Neural%20Network
 <script>
 ```
-2. The third and four sections, modeling data with `LSTM` and `ResCNN`.
+2. The third and fourth sections, modeling data with `LSTM` and `ResCNN`.
 ```html
 <script>
 https://github.com/CarlosMendez1997Col/Model-and-forecasts-hydrological-and-energetic-resources-using-ArcGIS-API-for-Python-and-R/tree/main/3.%20Modeling%20LSTM%20Neural%20Network
 https://github.com/CarlosMendez1997Col/Model-and-forecasts-hydrological-and-energetic-resources-using-ArcGIS-API-for-Python-and-R/tree/main/4.%20Modeling%20ResCNN%20Neural%20Network
 <script>
 ```
-3. The five and six sections, share initial scrips of `NNAR` and `LSTM`
+3. The fifth and sixth sections, share initial scrips of `NNAR` and `LSTM`
 ```html
 <script>
 https://github.com/CarlosMendez1997Col/Model-and-forecasts-hydrological-and-energetic-resources-using-ArcGIS-API-for-Python-and-R/tree/main/5.%20Original%20Data%20NNAR%20Network
@@ -108,6 +108,17 @@ library(modeltime)
 library(readxl)
 <script>
 ```
+
+## Versions and releases
+
+Version `1.0`
+
+```HTML
+<script>
+https://github.com/CarlosMendez1997Col/Model-and-forecasts-hydrological-and-energetic-resources-using-ArcGIS-API-for-Python-and-R/releases
+<script>
+```
+
 
 ## Data acquisition and download
 

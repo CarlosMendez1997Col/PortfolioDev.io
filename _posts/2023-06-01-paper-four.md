@@ -1,6 +1,7 @@
 ---
 title: "Research: Academic Participation"
 header:
+  image: /assets/images/OfficialLandscape.png
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 last_modified_at: 2023-06-01T00:10:02-05:00

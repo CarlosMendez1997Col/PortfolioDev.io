@@ -5,6 +5,7 @@ categories:
   - Hydropower
 tags:
   - ArcGIS API for Python
+  - ArcGIS Pro
   - Python
   - R
 ---

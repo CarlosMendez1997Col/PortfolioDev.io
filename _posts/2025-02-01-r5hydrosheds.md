@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 categories:
-  - Water_Datasets
+  - Water Datasets🏔️
 tags:
   - JavaScript
   - Google Earth Engine

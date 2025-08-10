@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 categories:
-  - Monitoring_Water
+  - Monitoring Water💦
 tags:
   - JavaScript
   - Google Earth Engine

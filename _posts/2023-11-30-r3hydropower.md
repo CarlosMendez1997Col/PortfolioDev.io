@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/OfficialLandscape.png
   og_image: /assets/images/OfficialLandscape.png
 categories:
-  - Hydropower
+  - Hydropower🪫
 tags:
   - ArcGIS API for Python
   - ArcGIS Pro

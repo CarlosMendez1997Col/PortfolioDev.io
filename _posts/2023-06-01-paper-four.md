@@ -8,7 +8,7 @@ last_modified_at: 2023-06-01T00:10:02-05:00
 ---
 <span style="font-size: 16px;">
   
-#### AVALIAÇÃO ESPACIAL E TEMPORAL DAS SECAS METEOROLÓGICAS NAS REPRESAS CHAVANTES E JURUMIRIM UTILIZANDO O ÍNDICE SPEI [Link Publication]:(https://129cdd10-b50c-412b-b438-299043a59ebe.filesusr.com/ugd/e63aa8_3b1c674cc0754fbaa4e19780c5ef7463.pdf)
+#### AVALIAÇÃO ESPACIAL E TEMPORAL DAS SECAS METEOROLÓGICAS NAS REPRESAS CHAVANTES E JURUMIRIM UTILIZANDO O ÍNDICE SPEI [Link Publication](https://129cdd10-b50c-412b-b438-299043a59ebe.filesusr.com/ugd/e63aa8_3b1c674cc0754fbaa4e19780c5ef7463.pdf)
 
 {: style="text-align: justify;"}
 

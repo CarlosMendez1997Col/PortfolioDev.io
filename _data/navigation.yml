@@ -9,7 +9,7 @@ main:
     url: /projects/
   - title: "Maps"
     url: /maps/  
-  - title: "Skills"
-    url: /skills/
   - title: "Apps"
     url: /apps/  
+  - title: "Hard Skills"
+    url: /skills/

@@ -8,7 +8,8 @@ last_modified_at: 2021-10-01T18:20:02-05:00
 ---
 <span style="font-size: 16px;">
   
-Metodología de evaluación y pronóstico del fenómeno de sequía en el Municipio de Motavita, Departamento de Boyacá
+Metodología de evaluación y pronóstico del fenómeno de sequía en el Municipio de Motavita, Departamento de Boyacá [Link Publication](https://repository.udistrital.edu.co/items/de3ecda1-01ec-4203-a938-1969240f6d24)
+
 {: style="text-align: justify;"}
 
 Resumen:
@@ -20,10 +21,6 @@ La región central del departamento de Boyacá - Colombia (Municipio de Motavita
 En Colombia, de acuerdo al régimen unimodal de precipitación característico en la mayor parte del territorio colombiano (temporada de lluvias y temporada de ausencia de lluvias). Propician bajo este régimen de precipitación la aparición de sequías en zonas susceptibles a este fenómeno, en especial durante los últimos y primeros meses de cada respectivo año. De ahí que, el municipio de Motavita (Boyacá) de acuerdo con sus características edafológicas, meteorológicas, geográficas y socioeconómicas. Constituya un espacio propicio para la generación de fenómenos de sequía, los cuales en el presente trabajo se evalúan desde el conocimiento del riesgo mediante los parámetros de Vulnerabilidad (V), Amenaza (A), Exposición (E) y Riesgo (R).
 
 {: style="text-align: justify;"}
-
-
-[Link](https://repository.udistrital.edu.co/items/de3ecda1-01ec-4203-a938-1969240f6d24)
-
 
 <table>
   <tr>

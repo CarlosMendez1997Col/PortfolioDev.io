@@ -15,6 +15,11 @@ tags:
 
 # Models and forecasts hydrological and energetic resources using ArcGIS API for Python and R
 
+{% include video id="13_A2Tzhoz0Zg2eVDtnOaiZqydnc8duwZ" provider="google-drive" %}
+
+{% include video id="1J93Pi2MxInTkruLSFUyowBFrj8LeR_Al" provider="google-drive" %}
+
+
 ## Use and install this repository
 
 HTTPS

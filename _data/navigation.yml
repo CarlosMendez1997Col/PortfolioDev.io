@@ -1,4 +1,6 @@
 main:
+  - title: "My Life"
+    url: /hobbies/
   - title: "Experience"
     url: /experience/
   - title: "Development"
@@ -11,5 +13,4 @@ main:
     url: /apps/  
   - title: "Maps"
     url: /maps/    
-  - title: "Hobbies"
-    url: /hobbies/
+

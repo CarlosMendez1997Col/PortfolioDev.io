@@ -11,6 +11,9 @@ tags:
   - ArcGIS Pro
   - Python
   - R
+  - Scikit-Learn
+  - TensorFlow
+  - Keas
 ---
 
 # Models and forecasts hydrological and energetic resources using ArcGIS API for Python and R

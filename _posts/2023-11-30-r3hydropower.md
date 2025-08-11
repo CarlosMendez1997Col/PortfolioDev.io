@@ -13,7 +13,7 @@ tags:
   - R
   - Scikit-Learn
   - TensorFlow
-  - Keas
+  - Keras
 ---
 
 # Models and forecasts hydrological and energetic resources using ArcGIS API for Python and R

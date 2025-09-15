@@ -1,9 +1,9 @@
 ---
 title: "Dev: Analysis of HydroSHEDS data products"
 header:
-  image: /assets/images/OfficialLandscape.png
-  teaser: /assets/images/OfficialLandscape.png
-  og_image: /assets/images/OfficialLandscape.png
+  image: /assets/images/PrincipalBanner.gif
+  teaser: /assets/images/PrincipalBanner.gif
+  og_image: /assets/images/PrincipalBanner.gif
 categories:
   - Water Datasets🏔️
 tags:

@@ -1,9 +1,9 @@
 ---
 title: "Monitoring Agrometeorological Resources"
 header:
-  image: /assets/images/OfficialLandscape.png
-  teaser: /assets/images/OfficialLandscape.png
-  og_image: /assets/images/OfficialLandscape.png
+  image: /assets/images/PrincipalBanner.gif
+  teaser: /assets/images/PrincipalBanner.gif
+  og_image: /assets/images/PrincipalBanner.gif
 categories:
   - Agrometeorology🌫️
 tags:
